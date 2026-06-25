@@ -183,8 +183,8 @@ export default function Contact() {
                   value={formData.name}
                   onChange={handleChange}
                   className={`w-full px-4 py-3 rounded-lg border bg-slate-50 dark:bg-slate-900/50 text-slate-900 dark:text-white text-sm outline-none transition-all duration-200 ${errors.name
-                      ? 'border-rose-500 focus:border-rose-500 focus:ring-1 focus:ring-rose-500/30'
-                      : 'border-slate-205 dark:border-slate-800 focus:border-emerald-500 dark:focus:border-emerald-450'
+                    ? 'border-rose-500 focus:border-rose-500 focus:ring-1 focus:ring-rose-500/30'
+                    : 'border-slate-205 dark:border-slate-800 focus:border-emerald-500 dark:focus:border-emerald-450'
                     }`}
                   placeholder="Enter your name"
                 />
@@ -201,8 +201,8 @@ export default function Contact() {
                   value={formData.email}
                   onChange={handleChange}
                   className={`w-full px-4 py-3 rounded-lg border bg-slate-50 dark:bg-slate-900/50 text-slate-900 dark:text-white text-sm outline-none transition-all duration-200 ${errors.email
-                      ? 'border-rose-500 focus:border-rose-500 focus:ring-1 focus:ring-rose-500/30'
-                      : 'border-slate-205 dark:border-slate-800 focus:border-emerald-500 dark:focus:border-emerald-450'
+                    ? 'border-rose-500 focus:border-rose-500 focus:ring-1 focus:ring-rose-500/30'
+                    : 'border-slate-205 dark:border-slate-800 focus:border-emerald-500 dark:focus:border-emerald-450'
                     }`}
                   placeholder="Enter your email address"
                 />
@@ -233,8 +233,8 @@ export default function Contact() {
                   onChange={handleChange}
                   rows="5"
                   className={`w-full px-4 py-3 rounded-lg border bg-slate-50 dark:bg-slate-900/50 text-slate-900 dark:text-white text-sm outline-none resize-none transition-all duration-200 ${errors.message
-                      ? 'border-rose-500 focus:border-rose-500 focus:ring-1 focus:ring-rose-500/30'
-                      : 'border-slate-205 dark:border-slate-800 focus:border-emerald-500 dark:focus:border-emerald-450'
+                    ? 'border-rose-500 focus:border-rose-500 focus:ring-1 focus:ring-rose-500/30'
+                    : 'border-slate-205 dark:border-slate-800 focus:border-emerald-500 dark:focus:border-emerald-450'
                     }`}
                   placeholder="Type your message here..."
                 ></textarea>
