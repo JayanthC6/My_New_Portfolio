@@ -13,7 +13,7 @@ export const profileData = {
       socials: {
         linkedin: "https://linkedin.com/in/jayanthc18",
         github: "https://github.com/JayanthC6",
-        leetcode: "https://leetcode.com/u/JayanthC6",
+        leetcode: "https://leetcode.com/u/JayanthC/",
         Hackerank: "https://www.hackerrank.com/profile/iconicno18"
       }
     }
