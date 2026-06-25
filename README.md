@@ -2,6 +2,11 @@
 
 This is a premium, interactive personal portfolio website built with React, Vite, Tailwind CSS, Framer Motion, and Lucide React. It is initialized directly from resume and LinkedIn data.
 
+
+## 🚀 Live Demo
+**Portfolio URL:** [ https://jayanthc6.github.io/My_New_Portfolio/](https://jayanthc6.github.io/My_New_Portfolio/)
+
+
 ## Features
 
 - **Responsive & Mobile-First**: Built from the ground up for seamless browsing across desktops, tablets, and phones.
