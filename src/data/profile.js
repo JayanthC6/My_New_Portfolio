@@ -118,7 +118,7 @@ export const profileData = {
       field: "Computer Science",
       period: "2024 – June 2026",
       location: "Bengaluru, Karnataka",
-      details: "CGPA: 8.84 / 10 (upto Semester III)"
+      details: "CGPA: 8.84 / 10 "
     },
     {
       institution: "VET First Grade College",
