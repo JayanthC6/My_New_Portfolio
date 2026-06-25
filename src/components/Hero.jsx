@@ -107,7 +107,7 @@ export default function Hero() {
 
             <a
               href="/Jayanth__CV__.pdf"
-              download="Jayanth_C_Resume.pdf"
+              download="Jayanth__CV__.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg font-medium text-sm flex items-center space-x-2 border border-emerald-500/30 bg-emerald-500/5 text-emerald-600 dark:text-emerald-400 hover:bg-emerald-500/10 transition-all duration-200"
