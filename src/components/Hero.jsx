@@ -106,7 +106,7 @@ export default function Hero() {
             </button>
 
             <a
-              href={`${import.meta.env.BASE_URL}Jayanth__CV__.pdf`}
+              href="Jayanth__CV__.pdf"
               download="Jayanth__CV__.pdf"
               target="_blank"
               rel="noopener noreferrer"
