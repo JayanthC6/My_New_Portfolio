@@ -53,7 +53,7 @@ export const profileData = {
       company: "CampusPe",
       role: "Full Stack Development Intern (Java)",
       location: "Remote",
-      period: "Feb 2026 – May 2026",
+      period: "Jan 2026 – Jun 2026",
       duration: "4 months",
       highlights: [
         "Sole developer of the DPDP Act Consent Audit Trail - a Full-Stack compliance platform with React frontend, Python Flask + AI backend, and Java Spring Boot + MySQL; independently delivered all three tiers when team members were unavailable, originally scoped as a 5-person project.",
@@ -64,7 +64,7 @@ export const profileData = {
       company: "AISECT Pvt.Ltd",
       role: "Data Science / ML Intern",
       location: "Bengaluru, Karnataka",
-      period: "Nov 2023 – Mar 2024",
+      period: "Oct 2023 – Mar 2024",
       duration: "5 months",
       highlights: [
         "Built data preprocessing pipelines in Python using Pandas and NumPy; developed interactive visualizations with Matplotlib and Seaborn integrated into web dashboards to surface business insights, demonstrating practical backend data integration experience.",
@@ -116,17 +116,17 @@ export const profileData = {
       institution: "Bangalore Institute of Technology",
       degree: "Master of Computer Applications (MCA)",
       field: "Computer Science",
-      period: "2024 – June 2026",
+      period: "Dec 2024 – June 2026",
       location: "Bengaluru, Karnataka",
-      details: "CGPA: 8.84 / 10"
+      details: "CGPA: 8.95 / 10"
     },
     {
       institution: "VET First Grade College",
       degree: "Bachelor of Computer Applications (BCA)",
       field: "Computer Science",
-      period: "2021 – 2024",
+      period: "Oct 2021 – Sept 2024",
       location: "Bengaluru, Karnataka",
-      details: "CGPA: 8.83 / 10"
+      details: "CGPA: 8.28 / 10"
     }
   ],
   certifications: [
